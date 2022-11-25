@@ -1,7 +1,4 @@
-# Project Name
-
-Dahilan_Kwency_ToDoList
-
+# Dahilan_Kwency_ToDoList
 
 ## Contributing
 
